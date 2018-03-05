@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Location
+comment1.params=locationName
+comment1.target=Location(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getLocationName()
+comment3.params=row\ colum
+comment3.target=StorUnits\ getStorUnits(int,\ int)
+comment4.params=
+comment4.target=int\ getCustCount()
+comment5.params=name\ phoneNumber\ accountBalance
+comment5.target=void\ addCustomer(java.lang.String,\ int,\ double)
+comment6.params=customer
+comment6.target=StorUnits[]\ getCustomersUnits(Customer)
+comment7.params=type
+comment7.target=StorUnits[]\ getEmptyStorageUnits(UnitType)
+comment8.params=
+comment8.target=void\ Charge()
+comment9.params=locationName
+comment9.target=void\ setLocationName(java.lang.String)
+numComments=11

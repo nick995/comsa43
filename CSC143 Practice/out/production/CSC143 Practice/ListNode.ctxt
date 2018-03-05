@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ListNode
+comment1.params=
+comment1.target=ListNode()
+comment2.params=data
+comment2.target=ListNode(java.lang.Object)
+comment2.text=\r\n\ \ \ \ \ \ \ \ @param\ data\ the\ element\r\n
+comment3.params=data\ next\ prev
+comment3.target=ListNode(java.lang.Object,\ ListNode,\ ListNode)
+comment4.params=
+comment4.target=java.lang.Object\ getData()
+comment4.text=\r\n\ Retrieves\ the\ data\r\n\r\n\ @return\ \ \ \ \ \ the\ data\r\n
+comment5.params=
+comment5.target=ListNode\ getNextNode()
+comment5.text=\r\n\ Retrieves\ the\ next\ node\ and\ return\ it\r\n\r\n\ @return\ \ \ \ \ \ the\ next\ node\r\n
+comment6.params=
+comment6.target=ListNode\ getPrevNode()
+comment6.text=\r\n\ Retrieves\ the\ previous\ node\r\n\r\n\ @return\ \ \ \ \ \ the\ previous\ node\r\n
+comment7.params=prev
+comment7.target=void\ setPrevNode(ListNode)
+comment8.params=next
+comment8.target=void\ setNextNode(ListNode)
+comment9.params=data
+comment9.target=void\ setData(java.lang.Object)
+numComments=10

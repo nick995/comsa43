@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=custName\ custNumber\ acctBalanel
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ double)
+comment10.params=amount
+comment10.target=double\ creditAmount(double)
+comment2.params=
+comment2.target=java.lang.String\ getCustName()
+comment3.params=
+comment3.target=java.lang.String\ getCustNumber()
+comment4.params=
+comment4.target=double\ getAcctBalanel()
+comment5.params=custName
+comment5.target=void\ setCustName(java.lang.String)
+comment6.params=custNumber
+comment6.target=void\ setCustNumber(java.lang.String)
+comment7.params=acctBalanel
+comment7.target=void\ setAcctBalanel(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=amount
+comment9.target=double\ debitAmount(double)
+numComments=11

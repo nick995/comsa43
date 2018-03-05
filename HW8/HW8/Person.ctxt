@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=
+comment1.target=java.lang.String\ getFirstName()
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getDay()
+comment5.params=
+comment5.target=java.lang.String\ getMonth()
+comment6.params=
+comment6.target=java.lang.String\ getYear()
+comment7.params=
+comment7.target=Sex\ getSex()
+numComments=8

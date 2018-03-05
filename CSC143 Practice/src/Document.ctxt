@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Document
+comment1.params=
+comment1.target=Document()
+comment2.params=
+comment2.target=Document\ getInstance()
+comment2.text=\r\n\ singletone\ document\r\n\r\n\ @param\ \ \r\n\ @return\ \ \ \ \ document\r\n
+comment3.params=section
+comment3.target=void\ addSection(Section)
+comment3.text=\r\n\ adding\ section\ \r\n\r\n\ @param\ \ section\r\n
+comment4.params=position
+comment4.target=Section\ removeSection(int)
+comment4.text=\r\n\ removing\ section\ in\ specific\ sectoin\r\n\r\n\ @param\ \ position\r\n
+comment5.params=textFileName
+comment5.target=void\ createTextFile(java.lang.String)
+comment5.text=\r\n\ creating\ text\ file\r\n\r\n\ @param\ \ textFileName\ \r\n
+comment6.params=textFileName\ section
+comment6.target=void\ writeFile(java.lang.String,\ Section)
+numComments=7

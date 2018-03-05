@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Paragraph
+comment1.params=text\ style
+comment1.target=Paragraph(java.lang.String,\ Style)
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment3.params=
+comment3.target=Style\ getStyle()
+comment4.params=text
+comment4.target=void\ setText(java.lang.String)
+comment5.params=style
+comment5.target=void\ setStyle(Style)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
